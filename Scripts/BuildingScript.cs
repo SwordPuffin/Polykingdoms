@@ -5,6 +5,7 @@ using UnityEngine.UI;
 
 public class BuildingScript : MonoBehaviour
 {
+    //Handle the upgrading of building
     Dictionary<string, int> upgrades = new Dictionary<string, int>(){{"Barracks(Clone)", 7}, {"ArcherTower(Clone)", 8}, {"WizardTower(Clone)", 12}, {"Fortress(Clone)", 12}, {"Castle(Clone)", 20}}; 
     public List<Sprite> sprites;
     public GameObject warning;
