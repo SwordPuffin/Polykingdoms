@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class EntityScript : MonoBehaviour
 {
+    //Script that handles game entities movement and attacking
+    //Made by Nathan Perlman
     public GameObject veil;
     Vector3 originpoint;
     GameObject lockpoint;
