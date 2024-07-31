@@ -14,8 +14,8 @@ Game sprite work credit of Artyom Zagorskiy (https://artyom-zagorskiy.itch.io/)
 
 # Screenshots
 
-![Screenshot from 2024-07-30 20-16-38](https://github.com/user-attachments/assets/af6e5226-ad40-426b-bc7b-75ad9c246a7e)
+![Screenshot from 2024-07-30 20-16-38](https://github.com/user-attachments/assets/4bd7f46f-e563-4ec3-973b-5544187a7931)
 
-![Screenshot from 2024-07-30 20-15-42](https://github.com/user-attachments/assets/9a4db253-176a-463b-b7d8-e3bc690df161)
+![Screenshot from 2024-07-30 20-15-42](https://github.com/user-attachments/assets/62651879-383b-44a9-943c-ac17384ff2aa)
 
-![Screenshot from 2024-07-30 20-13-49](https://github.com/user-attachments/assets/7b144f65-7ae1-42a4-9844-b4a3d591356d)
+![Screenshot from 2024-07-30 20-13-49](https://github.com/user-attachments/assets/59166911-8526-4157-ae18-37d252e53ff9)
