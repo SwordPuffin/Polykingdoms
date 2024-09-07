@@ -1,4 +1,3 @@
-using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -8,9 +7,9 @@ public class WallScript : MonoBehaviour
     //Made by Nathan Perlman 
     public List<Sprite> wallpieces;
     public GameObject wall, left, right, up, down;
-    public bool triggered;
+    bool triggered;
     
-    public void Start()
+    void Start()
     {
         triggered = false;
     }
