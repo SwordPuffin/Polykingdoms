@@ -16,3 +16,9 @@ Most recent push was just a few updates on a some files that have been changed, 
 
 # Screenshots
 
+![Screenshot1](https://github.com/user-attachments/Github/Screenshot1.png)
+
+![Screenshot1](https://github.com/user-attachments/Github/Screenshot2.png)
+
+![Screenshot1](https://github.com/user-attachments/Github/Screenshot2.png)
+
