@@ -16,9 +16,9 @@ Most recent push was just a few updates on a some files that have been changed, 
 
 # Screenshots
 
-![Screenshot1](https://github.com/SwordPuffin/Polykingdoms/blob/main/Github/Screenshot1.png)
+![Screenshot1](https://github.com/SwordPuffin/Polykingdoms/blob/main/Screenshots/Screenshot1.png)
 
-![Screenshot1](https://github.com/SwordPuffin/Polykingdoms/blob/main/Github/Screenshot2.png)
+![Screenshot2](https://github.com/SwordPuffin/Polykingdoms/blob/main/Screenshots/Screenshot2.png)
 
-![Screenshot1](https://github.com/SwordPuffin/Polykingdoms/blob/main/Github/Screenshot3.png)
+![Screenshot3](https://github.com/SwordPuffin/Polykingdoms/blob/main/Screenshots/Screenshot3.png)
 
