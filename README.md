@@ -22,3 +22,9 @@ Most recent push was just a few updates on a some files that have been changed, 
 
 ![Screenshot3](https://github.com/SwordPuffin/Polykingdoms/blob/main/Screenshots/Screenshot3.png)
 
+# Notice
+
+This project has gone into hibernation while I try to work on different things. 
+
+!!! This does not mean it is canceled, I am just working on it less !!!
+
